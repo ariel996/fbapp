@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ab05422-8963-455d-808f-efb5dbbec279" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/fbapp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fbapp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6f2b85a8-537d-476d-8601-910957cce3ec" />
   </component>
   <component name="ProjectId" id="1ZOgTRLEqajU4NScICjpWhInUM3" />
   <component name="ProjectViewState">
@@ -23,6 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -54,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584715601531</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1584715850126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584715850126</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1584715864589</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584715864589</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -62,9 +79,13 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1584715850025">
+    <state x="304" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1584715864546">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="304" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584715850025" />
+    <state x="304" y="27" width="777" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1584715864546" />
+    <state x="186" y="27" key="SettingsEditor" timestamp="1584715923010">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="186" y="27" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584715923010" />
   </component>
 </project>
